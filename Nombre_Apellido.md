@@ -1,8 +1,6 @@
-# Hola! Me llamo *John Doe*
+# Hola! Me llamo *Martín Cuevas*
 
-- A mi me gusta jugar videojuegos como Stardew Valley y Hollow Knight!
+- A mi me gusta jugar videojuegos y escuchar música 
 
-- Me gustaría aprender acerca de *desarrollo web* y d*esarrollo de aplicaciones*
-
-> Mi materia favorita es *Fundamentos de Ingeniería de Software*
+> Mi materia favorita es *FIS*
 
